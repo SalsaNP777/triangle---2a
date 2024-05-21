@@ -1,0 +1,14 @@
+D:\code_dotnet\BankIndonesia\2a\bin\Debug\net8.0\2a.exe
+D:\code_dotnet\BankIndonesia\2a\bin\Debug\net8.0\2a.deps.json
+D:\code_dotnet\BankIndonesia\2a\bin\Debug\net8.0\2a.runtimeconfig.json
+D:\code_dotnet\BankIndonesia\2a\bin\Debug\net8.0\2a.dll
+D:\code_dotnet\BankIndonesia\2a\bin\Debug\net8.0\2a.pdb
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.AssemblyInfoInputs.cache
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.AssemblyInfo.cs
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.csproj.CoreCompileInputs.cache
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.dll
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\refint\2a.dll
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.pdb
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\2a.genruntimeconfig.cache
+D:\code_dotnet\BankIndonesia\2a\obj\Debug\net8.0\ref\2a.dll
